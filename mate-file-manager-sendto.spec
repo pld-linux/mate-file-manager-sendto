@@ -7,7 +7,7 @@ License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://pub.mate-desktop.org/releases/1.6/%{name}-%{version}.tar.xz
 # Source0-md5:	6b2d5d6c30ab39ad509ac05692628560
-URL:		http://www.gnome.org/
+URL:		http://wiki.mate-desktop.org/mate-file-manager-sendto
 BuildRequires:	autoconf >= 2.52
 BuildRequires:	automake >= 1:1.9
 BuildRequires:	dbus-devel >= 1.0.2
