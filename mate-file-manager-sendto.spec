@@ -28,7 +28,7 @@ BuildRequires:	xz
 Requires(post,postun):	glib2 >= 1:2.26.0
 Requires:	glib2 >= 1:2.26.0
 Requires:	mate-file-manager >= 1.1.0
-Suggests:	file-roller
+Suggests:	mate-file-archiver
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
